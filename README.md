@@ -24,7 +24,7 @@ Vous essaierez autant que possible d'avoir une ergonomie (couleurs, style, polic
 
 ##### Tout projet de votre choix
 
-- il devra aborder au moins une notion que nous n'avons pas encore vue (caméra, maps, notifications, webservice, etc)
+- il devra être abordé au moins une notion que nous n'avons pas encore vue (caméra, maps, notifications, webservice, etc)
 
 ##### Application de partage de photos  
 
@@ -52,7 +52,7 @@ Vous essaierez autant que possible d'avoir une ergonomie (couleurs, style, polic
 
 - [Firebase Cloud Messaging](https://rnfirebase.io/messaging/usage)
 
-##### Application qui la gestion de réveils
+##### Application de gestion de réveils
 
 - Lecture / Création / modification / Suppression de réveils et stockage dans une base (PAS de AsyncStorage, [Realm](https://realm.io/blog/introducing-realm-react-native/) ? [SQLite](https://github.com/andpor/react-native-sqlite-storage) ?)
 - Afficher une alerte interne à l'app
