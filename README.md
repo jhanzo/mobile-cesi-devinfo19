@@ -48,7 +48,7 @@ Vous essaierez autant que possible d'avoir une ergonomie (couleurs, style, polic
 - Spammer l'utilisateur avec beaucoup de contenus publicitaires via [Firebase Admob](https://rnfirebase.io/admob/usage)
 - Ajouter un bouton qui permet à l'utilisateur de désactiver les publicités
 
-##### Application qui affiche le contenu de pushs notifications
+##### Application qui affiche le contenu de push notifications
 
 - [Firebase Cloud Messaging](https://rnfirebase.io/messaging/usage)
 
