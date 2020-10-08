@@ -20,11 +20,11 @@ Vous rappelerez les informations attendues suivantes dans un fichier README.md.
 
 ### Liste des projets disponibles
 
-Vous essaierez autant que possible d'avoir une ergonomie (couleurs, style, polices, etc)
+Vous essaierez autant que possible d'avoir une ergonomie (couleurs, style, polices, etc).
+
+Votre projet contiendra au moins une notion du cours que vous n'avez pas encore vue : Caméra, Maps, Notifications, Webservice, Firebase Authent, Firebase Admob, SQLite, Realm, React Native naavigation, ...
 
 ##### Tout projet de votre choix
-
-- il devra être abordé au moins une notion que nous n'avons pas encore vue (caméra, maps, notifications, webservice, etc)
 
 ##### Application de partage de photos  
 
